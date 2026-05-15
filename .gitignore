@@ -1,0 +1,11 @@
+# Fisiere compilate si Maven
+target/
+*.class
+*.jar
+
+# Baza de date SQLite
+autoservice.db
+
+# Fisiere specifice IDE-ului (IntelliJ)
+.idea/
+*.iml
